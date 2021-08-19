@@ -2,7 +2,7 @@
 
 This repository contains several of coding challenges that are done and submitted by Sümer Deveci. The challenges ***do not*** include hints regarding the companies that the challenges were completed for.
 
-***IMPORTANT:*** You can download or clone the whole repository, and then you would need to start each project **individually**, including operations like installing packages (described in project READMEs), by going into the respective directories.
+***IMPORTANT:*** You can download or clone the whole repository, and then you would need to start each project **individually**, including operations like installing packages (described in project READMEs), by going into the respective directories. And also extensive information regarding the project details and architecture are provided in the respective READMEs.
 
 In this repository you can find the following challenges with the associated features:
 
