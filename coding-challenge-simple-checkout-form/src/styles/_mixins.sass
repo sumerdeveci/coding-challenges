@@ -1,0 +1,19 @@
+// ! IMPORTANT: Should be imported after _variables.sass
+  
+@mixin mobile
+  @media (max-width: #{$mobile-max-width})
+    @content
+
+@mixin shadow-card
+  box-shadow: 0px 12px 36px 0px rgba($black, .16)
+
+@mixin transform-center
+  top: 50%
+  left: 50%
+  transform: translate(-50%, -50%)
+
+@mixin page
+  overflow-y: scroll
+  height: 100%
+  // max-height: 100%
+  padding: 0 cpx(1)

@@ -1,0 +1,9 @@
+@import 'src/styles/main'
+
+.rowResponsive
+  display: flex
+  flex-direction: row
+  +mobile
+    flex-direction: column
+    > :not(:last-child)
+      margin-bottom: cpx(2)
