@@ -1,0 +1,13 @@
+// ! IMPORTANT: Should be imported after _variables.sass
+  
+@mixin mobile
+  @media (max-width: #{$mobile-max-width})
+    @content
+
+@mixin row
+  display: flex
+  flex-direction: row
+
+@mixin col
+  display: flex
+  flex-direction: column
