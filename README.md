@@ -1,4 +1,4 @@
-# Coding Challenges Done By Sümer Deveci
+# Coding Challenges
 
 This repository contains several of coding challenges that are done and submitted by Sümer Deveci. The challenges *do not* include hints regarding the companies that the challenges were completed for.
 
